@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AutomationCourseByUdemy\\AutomationTestingP1\\AutomationTestingP1\\AutomationTestingGuru99.csproj": {}
+    "D:\\Automation Testing\\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\\AutomationTestingP1\\AutomationTestingP1\\AutomationTestingGuru99.csproj": {}
   },
   "projects": {
-    "D:\\AutomationCourseByUdemy\\AutomationTestingP1\\AutomationTestingP1\\AutomationTestingGuru99.csproj": {
+    "D:\\Automation Testing\\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\\AutomationTestingP1\\AutomationTestingP1\\AutomationTestingGuru99.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AutomationCourseByUdemy\\AutomationTestingP1\\AutomationTestingP1\\AutomationTestingGuru99.csproj",
+        "projectUniqueName": "D:\\Automation Testing\\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\\AutomationTestingP1\\AutomationTestingP1\\AutomationTestingGuru99.csproj",
         "projectName": "AutomationTestingGuru99",
-        "projectPath": "D:\\AutomationCourseByUdemy\\AutomationTestingP1\\AutomationTestingP1\\AutomationTestingGuru99.csproj",
+        "projectPath": "D:\\Automation Testing\\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\\AutomationTestingP1\\AutomationTestingP1\\AutomationTestingGuru99.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\AutomationCourseByUdemy\\AutomationTestingP1\\AutomationTestingP1\\obj\\",
+        "outputPath": "D:\\Automation Testing\\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\\AutomationTestingP1\\AutomationTestingP1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
