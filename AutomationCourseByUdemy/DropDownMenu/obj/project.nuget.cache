@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LWvxe+K9YGRORp8MDmxosV1/3ehVTYIHkAtnIlXPyw5X7W2lbO9N+YYw9uPwEs7WWKi/B5DGMhn5CIZxA0bvMw==",
+  "success": true,
+  "projectFilePath": "D:\\AutomationCourseByUdemy\\AutomationCourseByUdemy\\DropDownMenu\\DropDownMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\selenium.support\\4.9.0\\selenium.support.4.9.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\selenium.webdriver\\4.9.0\\selenium.webdriver.4.9.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\selenium.webdriver.chromedriver\\112.0.5615.4900\\selenium.webdriver.chromedriver.112.0.5615.4900.nupkg.sha512"
+  ],
+  "logs": []
+}
