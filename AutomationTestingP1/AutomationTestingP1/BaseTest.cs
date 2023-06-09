@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace AutomationTestingP1
 {
+  
     public class BaseTest
     {
         public IWebDriver driver;
@@ -19,15 +21,16 @@ namespace AutomationTestingP1
             driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://demo.guru99.com/test/guru99home/");
             driver.Manage().Window.Maximize();
+
         }
 
-       
-
         [TearDown]
-        public void TearDownBrowser()
+        public void exit()
         {
             driver.Quit();
         }
+
+    
     }
 
 }

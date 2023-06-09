@@ -6,10 +6,14 @@ namespace AutomationTestingP1
 {
     public class TestCase : BaseTest
     {
+        
+
+
         [Test]
         public void Method1()
         {
             string CssPath = "#philadelphia-field-email";
+
             IWebElement Email = driver.FindElement(By.CssSelector(CssPath));
             Email.SendKeys("nayab@gmail.com");
             string Csspath1 = "#philadelphia-field-submit";
@@ -17,7 +21,8 @@ namespace AutomationTestingP1
             Submit.Click();
             Thread.Sleep(3000);
         }
-
+       
+      
         //Xpath Selector
         [Test]
         public void Method2()
