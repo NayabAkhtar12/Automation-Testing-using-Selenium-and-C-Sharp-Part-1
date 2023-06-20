@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium;
+﻿using NUnit.Framework;
+using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,18 +8,14 @@ using System.Threading.Tasks;
 
 namespace DemoQATestProject
 {
-    public class TestCases 
+    public class TestCases :BaseTest
     {
-        IWebDriver driver;
-        public TestCases(IWebDriver driver)
-        {
-            this.driver = driver;
-        }
 
-        By EmailP = By.CssSelector("#philadelphia-field-email");
-
+        [Test]
         public void Email()
         {
+            By EmailP = By.CssSelector("#philadelphia-field-email");
+
             driver.FindElement(EmailP).SendKeys("nayab@gmail.com");
         }
     }
