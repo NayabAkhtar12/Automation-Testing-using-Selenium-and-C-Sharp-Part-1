@@ -18,7 +18,7 @@ namespace DemoQATestProject
 
         }
 
-        [OneTimeTearDown]
+        [TearDown]
         public void exit()
         {
             driver.Quit();

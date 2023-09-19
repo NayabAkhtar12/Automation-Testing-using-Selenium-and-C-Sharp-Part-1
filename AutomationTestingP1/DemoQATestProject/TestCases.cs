@@ -14,9 +14,9 @@ namespace DemoQATestProject
         [Test]
         public void Email()
         {
-            By EmailP = By.CssSelector("#philadelphia-field-email");
+           string Emailp="#philadelphia-field-email";
 
-            driver.FindElement(EmailP).SendKeys("nayab@gmail.com");
+            driver.FindElement(By.CssSelector(Emailp)).SendKeys("nayab@gmail.com");
         }
     }
 }

@@ -6,9 +6,6 @@ namespace AutomationTestingP1
 {
     public class TestCase : BaseTest
     {
-        
-
-
         [Test]
         public void Method1()
         {
@@ -58,5 +55,10 @@ namespace AutomationTestingP1
         }
 
 
+        [Test]
+        public void method5()
+        {
+            IWebElement TN = driver.FindElement(By.TagName(""));
+        }
     }
 }

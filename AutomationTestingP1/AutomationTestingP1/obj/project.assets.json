@@ -444,7 +444,7 @@
           "buildTransitive/Selenium.WebDriver.targets": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/113.0.5672.6300": {
+      "Selenium.WebDriver.ChromeDriver/116.0.5845.9600": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -1111,22 +1111,26 @@
         "selenium.webdriver.nuspec"
       ]
     },
-    "Selenium.WebDriver.ChromeDriver/113.0.5672.6300": {
-      "sha512": "koLDjWwvv8fMyZhUu8ROFvaBnNcSc3FfyavEc+LKsk7AzfHEDA2xph7WwJGz3Y20mxH1zxW/q+EyKG6Z3cM7UQ==",
+    "Selenium.WebDriver.ChromeDriver/116.0.5845.9600": {
+      "sha512": "ip8MRM/uVZxn4leTky/Sa7+Yo648lPzeR98/JCtoknq9heUFw2wMUtxdg7VIeI6RisqVUZ6UyD9/+DgkExNLdg==",
       "type": "package",
-      "path": "selenium.webdriver.chromedriver/113.0.5672.6300",
+      "path": "selenium.webdriver.chromedriver/116.0.5845.9600",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "build/DefinePropertiesChromeDriver.targets",
         "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/LICENSE.chromedriver",
         "driver/linux64/chromedriver",
+        "driver/mac64/LICENSE.chromedriver",
         "driver/mac64/chromedriver",
+        "driver/mac64arm/LICENSE.chromedriver",
         "driver/mac64arm/chromedriver",
+        "driver/win32/LICENSE.chromedriver",
         "driver/win32/chromedriver.exe",
         "nupkg-icon.png",
-        "selenium.webdriver.chromedriver.113.0.5672.6300.nupkg.sha512",
+        "selenium.webdriver.chromedriver.116.0.5845.9600.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
       ]
     },
@@ -1160,7 +1164,7 @@
       "NUnit3TestAdapter >= 4.4.2",
       "Selenium.Support >= 4.9.1",
       "Selenium.WebDriver >= 4.9.1",
-      "Selenium.WebDriver.ChromeDriver >= 113.0.5672.6300"
+      "Selenium.WebDriver.ChromeDriver >= 116.0.5845.9600"
     ]
   },
   "packageFolders": {
@@ -1233,7 +1237,7 @@
           },
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
-            "version": "[113.0.5672.6300, )"
+            "version": "[116.0.5845.9600, )"
           }
         },
         "imports": [
