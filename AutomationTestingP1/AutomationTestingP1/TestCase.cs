@@ -58,7 +58,10 @@ namespace AutomationTestingP1
         [Test]
         public void method5()
         {
-            IWebElement TN = driver.FindElement(By.TagName(""));
+            driver.Navigate().GoToUrl("https://www.google.co.uk/");
+            IWebElement TN = driver.FindElement(By.XPath("//*[@id=\"APjFqb\"]"));
+            TN.SendKeys("gg");
+            Thread.Sleep(3000);
         }
     }
 }

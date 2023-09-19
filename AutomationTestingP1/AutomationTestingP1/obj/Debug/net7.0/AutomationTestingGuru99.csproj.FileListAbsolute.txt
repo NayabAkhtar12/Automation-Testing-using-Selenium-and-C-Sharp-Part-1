@@ -1,5 +1,5 @@
-D:\Automation Testing\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\AutomationTestingP1\AutomationTestingP1\bin\Debug\net7.0\testhost.exe
 D:\Automation Testing\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\AutomationTestingP1\AutomationTestingP1\bin\Debug\net7.0\testhost.dll
+D:\Automation Testing\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\AutomationTestingP1\AutomationTestingP1\bin\Debug\net7.0\testhost.exe
 D:\Automation Testing\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\AutomationTestingP1\AutomationTestingP1\bin\Debug\net7.0\NUnit3.TestAdapter.dll
 D:\Automation Testing\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\AutomationTestingP1\AutomationTestingP1\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
 D:\Automation Testing\Automation-Testing-using-Selenium-and-C-Sharp-Part-1\AutomationTestingP1\AutomationTestingP1\bin\Debug\net7.0\nunit.engine.dll
